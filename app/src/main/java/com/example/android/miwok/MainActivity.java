@@ -1,4 +1,3 @@
-
 package com.example.android.miwok;
 
 import android.os.Bundle;
